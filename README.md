@@ -33,11 +33,6 @@ cargo run
 - Error handling
 - External crates using Cargo
 
-## Built With
-
-- Rust
-- `rand` crate
-
 ---
 
 A beginner-friendly project created while learning Rust.
